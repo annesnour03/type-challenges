@@ -1,0 +1,1 @@
+This is a repo where I try solving the typescript challenges of [type-challenges](https://github.com/type-challenges/type-challenges/tree/main).
